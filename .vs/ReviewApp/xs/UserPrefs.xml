@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{70DF1ECC-4E35-451F-BE9F-E38D6F03BEDA}|Default">
+﻿<Properties StartupConfiguration="{70DF1ECC-4E35-451F-BE9F-E38D6F03BEDA}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.src.ReviewApp.RestAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="ReviewApp.RestAPI/Controllers/ReviewController.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="ReviewApp.Core/Model/Review.cs" Line="18" Column="6" />
       <File FileName="ReviewApp.Core/Service/StorageService.cs" Line="18" Column="1" />
@@ -13,32 +13,19 @@
       <File FileName="ReviewApp.Core/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" Line="4" Column="12" />
       <File FileName="../../../../../../usr/local/share/dotnet/sdk/6.0.401/Microsoft.Common.CurrentVersion.targets" Line="2302" Column="5" />
       <File FileName="ReviewApp.RestAPI/Controllers/ReviewController.cs" Line="98" Column="10" />
-      <File FileName="ReviewApp.RestAPI/Program.cs" Line="3" Column="1" />
+      <File FileName="ReviewApp.RestAPI/Program.cs" Line="37" Column="1" />
       <File FileName="ReviewApp.DB/Model/ReviewEntity.cs" Line="14" Column="23" />
       <File FileName="ReviewApp.DB/ApplicationContext.cs" Line="14" Column="109" />
       <File FileName="ReviewApp.RestAPI/Model/ReviewDto.cs" Line="12" Column="50" />
       <File FileName="ReviewApp.RestAPI/Model/ReviewRequest.cs" Line="9" Column="50" />
       <File FileName="ReviewApp.DB/MySqlStorageService.cs" Line="1" Column="1" />
       <File FileName="ReviewApp.RestAPI/Model/ErrorResponse.cs" Line="1" Column="1" />
+      <File FileName=".vs/ReviewApp/xs/UserPrefs.xml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ReviewApp" expanded="True">
-            <Node name="src" expanded="True">
-              <Node name="ReviewApp.Core" expanded="True">
-                <Node name="Model" expanded="True" />
-              </Node>
-              <Node name="ReviewApp.RestAPI" expanded="True">
-                <Node name="Dependencies" expanded="True">
-                  <Node name="PackageDependencies" expanded="True" />
-                </Node>
-                <Node name="Controllers" expanded="True" />
-                <Node name="Mapper" expanded="True" />
-                <Node name="Model" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="ReviewApp" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
