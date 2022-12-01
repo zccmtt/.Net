@@ -1,0 +1,76 @@
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/appsettings.json
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI.deps.json
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI.runtimeconfig.json
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI.pdb
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/MySqlConnector.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.Core.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.DB.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.Core.pdb
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.DB.pdb
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.csproj.AssemblyReference.cache
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.AssemblyInfoInputs.cache
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.AssemblyInfo.cs
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.csproj.CoreCompileInputs.cache
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/scopedcss/bundle/ReviewApp.RestAPI.styles.css
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.csproj.CopyComplete
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/refint/ReviewApp.RestAPI.dll
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.pdb
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.genruntimeconfig.cache
+/Users/mz/Desktop/TNV/Modulo V - .Net/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ref/ReviewApp.RestAPI.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/appsettings.json
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI.deps.json
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI.runtimeconfig.json
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.RestAPI.pdb
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/MySqlConnector.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.Core.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.DB.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.Core.pdb
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/ReviewApp.DB.pdb
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.csproj.AssemblyReference.cache
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.AssemblyInfoInputs.cache
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.AssemblyInfo.cs
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.csproj.CoreCompileInputs.cache
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/scopedcss/bundle/ReviewApp.RestAPI.styles.css
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.csproj.CopyComplete
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/refint/ReviewApp.RestAPI.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.pdb
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.genruntimeconfig.cache
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ref/ReviewApp.RestAPI.dll
