@@ -11,7 +11,7 @@ namespace ReviewApp.DB
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var version = new MySqlServerVersion(new Version(8, 0, 30));
-            var connectionString = "Server=localhost;Port=3306;Database=reviewapp;Uid=root;Pwd=Cellost110816";
+            var connectionString = "Server=localhost;Port=3306;Database=reviewappfinalproject;Uid=root;Pwd=Cellost110816";
 
             optionsBuilder.UseMySql(connectionString, version);
             base.OnConfiguring(optionsBuilder);

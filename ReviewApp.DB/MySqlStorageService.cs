@@ -17,13 +17,14 @@ namespace ReviewApp.DB
             _contex.Database.EnsureCreated();
         }
 
-        public Review CreateReview(string comment, int movieId, int userId)
+        public Review CreateReview(string comment, int userId, int movieId, int rating)
         {
             var reviewToCreate = new ReviewEntity
             {
                 Comment = comment,
+                UserId = userId,
                 MovieId = movieId,
-                UserId = userId
+                Rating = rating
             };
             _contex.Reviews.Add(reviewToCreate);
             _contex.SaveChanges();
@@ -49,12 +50,13 @@ namespace ReviewApp.DB
             return ReviewEntityMapper.From(r);
         }
 
-        public Review UpdateReview(int reviewId, string comment, int userId, int movieId)
+        public Review UpdateReview(int reviewId, string comment, int userId, int movieId, int rating)
         {
             var reviewToUpdate = GetReviewOrFail(reviewId);
             reviewToUpdate.Comment = comment;
-            reviewToUpdate.MovieId = movieId;
             reviewToUpdate.UserId = userId;
+            reviewToUpdate.MovieId = movieId;
+            reviewToUpdate.Rating = rating;
             _contex.SaveChanges();
             return ReviewEntityMapper.From(reviewToUpdate);
         }
@@ -66,6 +68,8 @@ namespace ReviewApp.DB
             if (r == null) throw new ReviewNotFoundException(reviewId);
             return r;
         }
+
+        
 
     }
 }

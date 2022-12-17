@@ -8,7 +8,7 @@ namespace ReviewApp.DB.Mapper
     {
         public static Review From(ReviewEntity entity)
         {
-            return new Review(entity.Id, entity.Comment, entity.MovieId, entity.UserId);
+            return new Review(entity.Id, entity.Comment, entity.UserId, entity.MovieId, entity.Rating);
         }
     }
 }

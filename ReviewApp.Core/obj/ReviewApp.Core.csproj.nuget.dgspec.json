@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj": {}
+    "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj": {}
   },
   "projects": {
-    "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj": {
+    "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj",
+        "projectUniqueName": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj",
         "projectName": "ReviewApp.Core",
-        "projectPath": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj",
+        "projectPath": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj",
         "packagesPath": "/Users/mz/.nuget/packages/",
-        "outputPath": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/obj/",
+        "outputPath": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mz/.nuget/NuGet/NuGet.Config"

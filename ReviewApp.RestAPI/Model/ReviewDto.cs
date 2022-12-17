@@ -11,11 +11,14 @@ namespace ReviewApp.RestAPI.Model
         [DisplayName("comment")]
         public string Comment { get; set; } = "";
 
+        [DisplayName("user_id")]
+        public int UserId { get; set; }
+
         [DisplayName("movie_id")]
         public int MovieId { get; set; }
 
-        [DisplayName("user_id")]
-        public int UserId { get; set; }
+        [DisplayName("rating")]
+        public int Rating { get; set; }
 
     }
 }

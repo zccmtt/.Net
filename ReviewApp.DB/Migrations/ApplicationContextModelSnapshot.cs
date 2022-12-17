@@ -27,13 +27,17 @@ namespace ReviewApp.DB.Migrations
 
                     b.Property<string>("Comment")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("varchar(255)")
+                        .HasMaxLength(160)
+                        .HasColumnType("varchar(160)")
                         .HasColumnName("comment");
 
                     b.Property<int>("MovieId")
                         .HasColumnType("int")
                         .HasColumnName("movie_id");
+
+                    b.Property<int>("Rating")
+                        .HasColumnType("int")
+                        .HasColumnName("rating");
 
                     b.Property<int>("UserId")
                         .HasColumnType("int")
@@ -41,7 +45,7 @@ namespace ReviewApp.DB.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("comment");
+                    b.ToTable("review");
                 });
 #pragma warning restore 612, 618
         }

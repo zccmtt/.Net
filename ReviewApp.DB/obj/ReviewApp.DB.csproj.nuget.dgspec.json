@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.DB/ReviewApp.DB.csproj": {}
+    "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.DB/ReviewApp.DB.csproj": {}
   },
   "projects": {
-    "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj": {
+    "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj",
+        "projectUniqueName": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj",
         "projectName": "ReviewApp.Core",
-        "projectPath": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj",
+        "projectPath": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj",
         "packagesPath": "/Users/mz/.nuget/packages/",
-        "outputPath": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/obj/",
+        "outputPath": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mz/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.DB/ReviewApp.DB.csproj": {
+    "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.DB/ReviewApp.DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.DB/ReviewApp.DB.csproj",
+        "projectUniqueName": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.DB/ReviewApp.DB.csproj",
         "projectName": "ReviewApp.DB",
-        "projectPath": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.DB/ReviewApp.DB.csproj",
+        "projectPath": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.DB/ReviewApp.DB.csproj",
         "packagesPath": "/Users/mz/.nuget/packages/",
-        "outputPath": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.DB/obj/",
+        "outputPath": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.DB/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mz/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj": {
-                "projectPath": "/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj"
+              "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj": {
+                "projectPath": "/Users/mz/Desktop/TNV/Progetto finale/ReviewApp/ReviewApp.Core/ReviewApp.Core.csproj"
               }
             }
           }

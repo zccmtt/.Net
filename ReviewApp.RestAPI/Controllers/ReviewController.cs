@@ -45,17 +45,21 @@ namespace ReviewApp.RestAPI.Controllers
         }
 
         [HttpPost]
-        public ActionResult<ReviewDto> CreateSamurai([FromBody] ReviewRequest body)
+        public ActionResult<ReviewDto> CreateRating([FromBody] ReviewRequest body)
         {
             try
             {
-                var r = _manager.CreateReview(body.Comment, body.UserId, body.MovieId);
+                var r = _manager.CreateReview(body.Comment, body.UserId, body.MovieId, body.Rating);
                 var uri = $"/reviews/{r.Id}";
                 return Created(uri, ReviewDtoMapper.From(r));
             }
-            catch (ShortCommentException ex)
+            catch (LongCommentException ex)
             {
                 return BadRequest(new ErrorResponse(ex.Message));
+            }
+            catch (IncorrectRatingException exc)
+            {
+                return BadRequest(new ErrorResponse(exc.Message));
             }
         }
         [HttpPut]
@@ -66,7 +70,7 @@ namespace ReviewApp.RestAPI.Controllers
         {
             try
             {
-                var r = _manager.UpdateReview(reviewId, body.Comment, body.MovieId, body.UserId);
+                var r = _manager.UpdateReview(reviewId, body.Comment, body.UserId, body.MovieId, body.Rating);
                 return Ok(ReviewDtoMapper.From(r));
             }
             catch (ReviewNotFoundException e)
@@ -74,13 +78,17 @@ namespace ReviewApp.RestAPI.Controllers
                 return NotFound(new ErrorResponse(e.Message));
             }
 
-            catch (ShortCommentException ex)
+            catch (LongCommentException ex)
             {
                 return BadRequest(new ErrorResponse(ex.Message));
             }
+            catch (IncorrectRatingException exc)
+            {
+                return BadRequest(new ErrorResponse(exc.Message));
+            }
 
         }
-
+        
         [HttpDelete]
         [Route("{review-id}")]
         public ActionResult<ReviewDto> DeleteReview([FromRoute(Name = "review-id")] int reviewId)
@@ -96,6 +104,12 @@ namespace ReviewApp.RestAPI.Controllers
                 return NotFound(new ErrorResponse(e.Message));
             }
         }
+
+        [HttpGet]
+        [Route("fromuser/{user-id}")]
+        public ActionResult<List<ReviewDto>> GetReviewsByUserId([FromRoute(Name = "user-id")] int userId) =>
+            Ok(_manager.GetReviewsByUserId(userId).Select(r =>
+            ReviewDtoMapper.From(r)).ToList());
 
     }
 

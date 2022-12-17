@@ -18,7 +18,7 @@ public class Program
         builder.Services.AddSwaggerGen();
         builder.Services.AddSingleton<StorageService, MySqlStorageService>();
         builder.Services.AddSingleton<ReviewApplicationManager>();
-
+        builder.Services.AddCors();
 
         var app = builder.Build();
 
@@ -26,9 +26,15 @@ public class Program
         if (app.Environment.IsDevelopment())
         {
             app.UseSwagger();
+
             app.UseSwaggerUI();
         }
-
+        app.UseCors(builder =>
+        {
+            builder.AllowAnyOrigin()
+                   .AllowAnyMethod()
+                   .AllowAnyHeader();
+        });
         app.UseAuthorization();
 
 

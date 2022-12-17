@@ -11,8 +11,9 @@ namespace ReviewApp.RestAPI.Mapper
         {
             Id = r.Id,
             Comment = r.Comment,
+            UserId = r.UserId,
             MovieId = r.MovieId,
-            UserId = r.UserId
+            Rating = r.Rating
         };
 
     }

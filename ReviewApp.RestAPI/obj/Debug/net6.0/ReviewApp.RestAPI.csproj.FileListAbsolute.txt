@@ -74,3 +74,9 @@
 /Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.pdb
 /Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ReviewApp.RestAPI.genruntimeconfig.cache
 /Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/obj/Debug/net6.0/ref/ReviewApp.RestAPI.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/System.Web.Cors.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/System.Web.Http.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/System.Web.Http.Cors.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mz/Desktop/TNV/progetto finale/ReviewApp/ReviewApp.RestAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll

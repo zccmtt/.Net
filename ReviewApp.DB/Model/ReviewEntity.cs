@@ -10,14 +10,17 @@ namespace ReviewApp.DB.Model
         [Column("id"), Key]
         public int Id { get; set; }
 
-        [Column("comment"), StringLength(255), DataType(DataType.Text)]
+        [Column("comment"), StringLength(160), DataType(DataType.Text)]
         public string Comment { get; set; } = "";
+
+        [Column("user_id")]
+        public int UserId { get; set; }
 
         [Column("movie_id")]
         public int MovieId { get; set; }
 
-        [Column("user_id")]
-        public int UserId { get; set; }
+        [Column("rating")]
+        public int Rating { get; set; }
     }
 }
 
